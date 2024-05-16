@@ -6,7 +6,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //Mi primer
     public class CartItem
+
     {
         [Key]
         public int CartItemId { get; set; }
