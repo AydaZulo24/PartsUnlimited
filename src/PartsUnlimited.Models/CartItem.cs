@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //Mi primer
+    //Mi primer cambio Jueves-17-Mayo
     public class CartItem
 
     {
